@@ -1,0 +1,9 @@
+- Use issues for suggestions and bugs.
+- Write a wiki page for any issue that needs clarification. Be as as wide or as brief as you wish.
+- Create your own branch if you want to try out something.
+- Create a separate branch for each issue.
+- Cut new branches only from the latest master.
+- You may create new branches from an existing issue branch for trying out different approaches.
+- Branches should be rebased against master before a merge request is proposed.
+- Ask for approval before merging.
+- Never rebase a branch with shared history.
